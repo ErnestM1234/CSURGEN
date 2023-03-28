@@ -1,0 +1,4 @@
+# TODO: This file
+# Use $ pip3 install -r requirements.txt
+
+python-dotenv==0.21.0

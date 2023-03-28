@@ -1,0 +1,6 @@
+[submodule "data/English-Words-Definitions-and-Parts-of-Speech"]
+	path = data/English-Words-Definitions-and-Parts-of-Speech
+	url = https://github.com/lorenza12/English-Words-Definitions-and-Parts-of-Speech.git
+[submodule "modules/pungen"]
+	path = modules/pungen
+	url = https://github.com/hhexiy/pungen.git
